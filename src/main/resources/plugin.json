@@ -1,0 +1,7 @@
+{
+  "id": "custommotd",
+  "name": "CustomMOTD",
+  "version": "1.0.0",
+  "main": "com.example.custommotd.CustomMOTDPlugin",
+  "authors": ["YourName"]
+}
